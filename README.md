@@ -11,3 +11,32 @@
 ║  STATUS   : ALWAYS LEARNING          ║
 ║  MISSION  : BUILD SOMETHING GREAT    ║
 ╚══════════════════════════════════════╝
+
+
+$ whoami
+Shashika - Software Developer
+
+$ cat about.txt
+VTA Software Developer Level 4
+Interested in Software Engineering
+Building Android and Web Applications
+Learning. Coding. Improving.
+
+
+[+] Point of Sale application
+[+] Product and stock management
+[+] Sales and billing functionality
+[+] Database integration
+
+[+] Product management
+[+] Stock quantity tracking
+[+] Sales history
+[+] SQLite database
+
+[+] Improve programming skills
+[+] Build real-world applications
+[+] Learn advanced software development
+[+] Contribute to open-source projects
+
+> SYSTEM MESSAGE: KEEP LEARNING.
+> NEXT OBJECTIVE: BUILD THE FUTURE.
